@@ -25,7 +25,7 @@ keywords:
     "Critique/Critic": 
         filters: ["Critique", "Critique Ability","Critic Model"]
     "CBT": 
-        filters: ["CBT", "Cognitive behavioral therapy"]
+        filters: ["cognitive reframing", "Cognitive behavioral therapy"]
     "Talking Head": 
         filters: ["Talking Head", "Talking Face", "Talking Avatar"]
     
