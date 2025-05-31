@@ -1,4 +1,4 @@
-## Updated on 2025.05.26
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -957,7 +957,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## SFM
 
@@ -1365,7 +1365,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2512,7 +2512,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2825,7 +2825,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3156,7 +3156,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## NeRF
 
@@ -4761,12 +4761,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Critique/Critic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**|Jinzhe Li et.al.|[2505.23715](http://arxiv.org/abs/2505.23715)|null|
+|**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564](http://arxiv.org/abs/2505.23564)|null|
+|**2025-05-29**|**Socratic-PRMBench: Benchmarking Process Reward Models with Systematic Reasoning Patterns**|Xiang Li et.al.|[2505.23474](http://arxiv.org/abs/2505.23474)|null|
+|**2025-05-29**|**Self-driving technologies need the help of the public: A narrative review of the evidence**|Jonathan Smith et.al.|[2505.23472](http://arxiv.org/abs/2505.23472)|null|
+|**2025-05-29**|**Cross-Task Experiential Learning on LLM-based Multi-Agent Collaboration**|Yilong Li et.al.|[2505.23187](http://arxiv.org/abs/2505.23187)|null|
+|**2025-05-29**|**Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness**|Yongjin Yang et.al.|[2505.22960](http://arxiv.org/abs/2505.22960)|null|
+|**2025-05-28**|**Self-Critique and Refinement for Faithful Natural Language Explanations**|Yingming Wang et.al.|[2505.22823](http://arxiv.org/abs/2505.22823)|null|
+|**2025-05-28**|**Thinking with Generated Images**|Ethan Chern et.al.|[2505.22525](http://arxiv.org/abs/2505.22525)|null|
+|**2025-05-28**|**Text2Grad: Reinforcement Learning from Natural Language Feedback**|Hanyang Wang et.al.|[2505.22338](http://arxiv.org/abs/2505.22338)|null|
+|**2025-05-28**|**Retweets, Receipts, and Resistance: Discourse, Sentiment, and Credibility in Public Health Crisis Twitter**|Tawfiq Ammari et.al.|[2505.22032](http://arxiv.org/abs/2505.22032)|null|
 |**2025-05-22**|**PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**|Chenzhuo Zhao et.al.|[2505.16307](http://arxiv.org/abs/2505.16307)|null|
 |**2025-05-21**|**DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning**|Gaurav Srivastava et.al.|[2505.15734](http://arxiv.org/abs/2505.15734)|null|
 |**2025-05-21**|**Exploring LLM-Generated Feedback for Economics Essays: How Teaching Assistants Evaluate and Envision Its Use**|Xinyi Lu et.al.|[2505.15596](http://arxiv.org/abs/2505.15596)|**[link](https://github.com/um-lifelong-learning-lab/aied2025-exploring-llm-generated-feedback-for-economics-essay)**|
@@ -4778,7 +4788,7 @@
 |**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
 |**2025-05-22**|**Critique-Guided Distillation: Improving Supervised Fine-tuning via Better Distillation**|Berkcan Kapusuzoglu et.al.|[2505.11628](http://arxiv.org/abs/2505.11628)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## CBT
 
@@ -4788,7 +4798,7 @@
 |**2025-05-16**|**The Way We Prompt: Conceptual Blending, Neural Dynamics, and Prompt-Induced Transitions in LLMs**|Makoto Sato et.al.|[2505.10948](http://arxiv.org/abs/2505.10948)|null|
 |**2025-05-10**|**NeuroPal: A Clinically-Informed Multimodal LLM Assistant for Mental Health Combining Sleep Chronotherapy, Cognitive Behavioral Reframing, and Adaptive Phytochemical Intervention**|Xiaoran Han et.al.|[2505.06640](http://arxiv.org/abs/2505.06640)|null|
 |**2025-04-29**|**Narrative-Centered Emotional Reflection: Scaffolding Autonomous Emotional Literacy with AI**|Shou-Tzu Han et.al.|[2504.20342](http://arxiv.org/abs/2504.20342)|null|
-|**2025-04-16**|**Mirror: Multimodal Cognitive Reframing Therapy for Rolling with Resistance**|Subin Kim et.al.|[2504.13211](http://arxiv.org/abs/2504.13211)|null|
+|**2025-05-26**|**Mirror: Multimodal Cognitive Reframing Therapy for Rolling with Resistance**|Subin Kim et.al.|[2504.13211](http://arxiv.org/abs/2504.13211)|null|
 |**2025-03-21**|**Continuous Boostlet Transform and Associated Uncertainty Principles**|Owais Ahmad et.al.|[2504.03679](http://arxiv.org/abs/2504.03679)|null|
 |**2025-03-31**|**Does "Reasoning" with Large Language Models Improve Recognizing, Generating, and Reframing Unhelpful Thoughts?**|Yilin Qi et.al.|[2504.00163](http://arxiv.org/abs/2504.00163)|null|
 |**2025-03-26**|**Exploratory Study into Relations between Cognitive Distortions and Emotional Appraisals**|Navneet Agarwal et.al.|[2503.15979](http://arxiv.org/abs/2503.15979)|null|
@@ -4803,12 +4813,17 @@
 |**2024-11-29**|**Fine Tuning Large Language Models to Deliver CBT for Depression**|Talha Tahir et.al.|[2412.00251](http://arxiv.org/abs/2412.00251)|**[link](https://github.com/ttahir-git/FineTuning_LLMs_for_CBT_for_Depression)**|
 |**2024-12-16**|**Habit Coach: Customising RAG-based chatbots to support behavior change**|Arian Fooroogh Mand Arabi et.al.|[2411.19229](http://arxiv.org/abs/2411.19229)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Talking Head
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Video Editing for Audio-Visual Dubbing**|Binyamin Manela et.al.|[2505.23406](http://arxiv.org/abs/2505.23406)|null|
+|**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647](http://arxiv.org/abs/2505.22647)|null|
+|**2025-05-28**|**FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing**|Guanwen Feng et.al.|[2505.22141](http://arxiv.org/abs/2505.22141)|null|
+|**2025-05-28**|**RESOUND: Speech Reconstruction from Silent Videos via Acoustic-Semantic Decomposed Modeling**|Long-Khanh Pham et.al.|[2505.22024](http://arxiv.org/abs/2505.22024)|null|
+|**2025-05-26**|**DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations**|Ziqiao Peng et.al.|[2505.18096](http://arxiv.org/abs/2505.18096)|null|
 |**2025-05-10**|**VTutor: An Animated Pedagogical Agent SDK that Provide Real Time Multi-Model Feedback**|Eason Chen et.al.|[2505.06676](http://arxiv.org/abs/2505.06676)|null|
 |**2025-05-10**|**OT-Talk: Animating 3D Talking Head with Optimal Transportation**|Xinmu Wang et.al.|[2505.01932](http://arxiv.org/abs/2505.01932)|null|
 |**2025-05-03**|**GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting**|Anushka Agarwal et.al.|[2505.01928](http://arxiv.org/abs/2505.01928)|null|
@@ -4820,7 +4835,7 @@
 |**2025-04-08**|**VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing**|Juan Luis Gonzalez Bello et.al.|[2504.07146](http://arxiv.org/abs/2504.07146)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
