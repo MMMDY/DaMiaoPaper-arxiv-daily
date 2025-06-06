@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4744,6 +4744,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Position: There Is No Free Bayesian Uncertainty Quantification**|Ivan Melev et.al.|[2506.03670](http://arxiv.org/abs/2506.03670)|null|
+|**2025-06-03**|**Helpful Agent Meets Deceptive Judge: Understanding Vulnerabilities in Agentic Workflows**|Yifei Ming et.al.|[2506.03332](http://arxiv.org/abs/2506.03332)|null|
+|**2025-06-05**|**Unleashing the Reasoning Potential of Pre-trained LLMs by Critique Fine-Tuning on One Problem**|Yubo Wang et.al.|[2506.03295](http://arxiv.org/abs/2506.03295)|null|
+|**2025-06-04**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|
+|**2025-06-02**|**Small Language Models are the Future of Agentic AI**|Peter Belcak et.al.|[2506.02153](http://arxiv.org/abs/2506.02153)|null|
+|**2025-06-02**|**Self-Refining Language Model Anonymizers via Adversarial Distillation**|Kyuyoung Kim et.al.|[2506.01420](http://arxiv.org/abs/2506.01420)|null|
+|**2025-05-31**|**Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents**|Xiao Yu et.al.|[2506.00320](http://arxiv.org/abs/2506.00320)|null|
+|**2025-05-31**|**SkillVerse : Assessing and Enhancing LLMs with Tree Evaluation**|Yufei Tian et.al.|[2506.00319](http://arxiv.org/abs/2506.00319)|null|
+|**2025-05-30**|**CRScore++: Reinforcement Learning with Verifiable Tool and AI Feedback for Code Review**|Manav Nitin Kapadnis et.al.|[2506.00296](http://arxiv.org/abs/2506.00296)|null|
+|**2025-05-30**|**Writing-Zero: Bridge the Gap Between Non-verifiable Problems and Verifiable Rewards**|Xun Lu et.al.|[2506.00103](http://arxiv.org/abs/2506.00103)|null|
 |**2025-05-29**|**Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**|Jinzhe Li et.al.|[2505.23715](http://arxiv.org/abs/2505.23715)|null|
 |**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564](http://arxiv.org/abs/2505.23564)|null|
 |**2025-05-29**|**Socratic-PRMBench: Benchmarking Process Reward Models with Systematic Reasoning Patterns**|Xiang Li et.al.|[2505.23474](http://arxiv.org/abs/2505.23474)|null|
@@ -4792,7 +4802,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**Video Editing for Audio-Visual Dubbing**|Binyamin Manela et.al.|[2505.23406](http://arxiv.org/abs/2505.23406)|null|
+|**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
+|**2025-06-02**|**Cocktail-Party Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.02178](http://arxiv.org/abs/2506.02178)|null|
+|**2025-06-02**|**Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**|Yuan Gan et.al.|[2506.01591](http://arxiv.org/abs/2506.01591)|null|
+|**2025-05-30**|**TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection**|Xinqi Xiong et.al.|[2505.24866](http://arxiv.org/abs/2505.24866)|null|
+|**2025-05-29**|**Video Editing for Audio-Visual Dubbing**|Binyamin Manela et.al.|[2505.23406](http://arxiv.org/abs/2505.23406)|**[link](https://github.com/edidub/edidub-results)**|
 |**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647](http://arxiv.org/abs/2505.22647)|null|
 |**2025-05-28**|**FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing**|Guanwen Feng et.al.|[2505.22141](http://arxiv.org/abs/2505.22141)|null|
 |**2025-05-28**|**RESOUND: Speech Reconstruction from Silent Videos via Acoustic-Semantic Decomposed Modeling**|Long-Khanh Pham et.al.|[2505.22024](http://arxiv.org/abs/2505.22024)|null|
