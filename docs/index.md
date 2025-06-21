@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4744,6 +4744,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**CRITICTOOL: Evaluating Self-Critique Capabilities of Large Language Models in Tool-Calling Error Scenarios**|Shiting Huang et.al.|[2506.13977](http://arxiv.org/abs/2506.13977)|null|
+|**2025-06-16**|**VL-GenRM: Enhancing Vision-Language Verification via Vision Experts and Iterative Training**|Jipeng Zhang et.al.|[2506.13888](http://arxiv.org/abs/2506.13888)|null|
+|**2025-06-16**|**VIS-Shepherd: Constructing Critic for LLM-based Data Visualization Generation**|Bo Pan et.al.|[2506.13326](http://arxiv.org/abs/2506.13326)|**[link](https://github.com/bopan3/vis-shepherd)**|
+|**2025-06-16**|**MAGIC: Multi-Agent Argumentation and Grammar Integrated Critiquer**|Joaquin Jordan et.al.|[2506.13037](http://arxiv.org/abs/2506.13037)|null|
+|**2025-06-15**|**Quantitative Relaxations of Arrow's Axioms**|Suvadip Sana et.al.|[2506.12961](http://arxiv.org/abs/2506.12961)|**[link](https://github.com/suvadip2776/quantitative_fairness)**|
+|**2025-06-13**|**Universal Relation between Spectral and Wavefunction Properties at Criticality**|Simon Jiricek et.al.|[2506.11675](http://arxiv.org/abs/2506.11675)|null|
 |**2025-06-12**|**What Users Value and Critique: Large-Scale Analysis of User Feedback on AI-Powered Mobile Apps**|Vinaik Chhetri et.al.|[2506.10785](http://arxiv.org/abs/2506.10785)|null|
 |**2025-06-12**|**EQA-RM: A Generative Embodied Reward Model with Test-time Scaling**|Yuhang Chen et.al.|[2506.10389](http://arxiv.org/abs/2506.10389)|null|
 |**2025-06-09**|**Unblocking Fine-Grained Evaluation of Detailed Captions: An Explaining AutoRater and Critic-and-Revise Pipeline**|Brian Gordon et.al.|[2506.07631](http://arxiv.org/abs/2506.07631)|null|
@@ -4809,6 +4815,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
+|**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
+|**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
+|**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|**[link](https://github.com/microsoft/vsr-challenge)**|
 |**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
 |**2025-06-02**|**Cocktail-Party Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.02178](http://arxiv.org/abs/2506.02178)|null|
 |**2025-06-02**|**Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**|Yuan Gan et.al.|[2506.01591](http://arxiv.org/abs/2506.01591)|**[link](https://github.com/yuangan/silencer)**|
