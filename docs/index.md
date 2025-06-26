@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.21
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4744,6 +4744,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**OpticalAging: Real-time Presbyopia Simulation for Inclusive Design via Tunable Lenses**|Qing Zhang et.al.|[2506.19307](http://arxiv.org/abs/2506.19307)|null|
+|**2025-06-23**|**A Comment On "The Illusion of Thinking": Reframing the Reasoning Cliff as an Agentic Gap**|Sheraz Khan et.al.|[2506.18957](http://arxiv.org/abs/2506.18957)|null|
+|**2025-06-23**|**Deep CNN Face Matchers Inherently Support Revocable Biometric Templates**|Aman Bhatta et.al.|[2506.18731](http://arxiv.org/abs/2506.18731)|null|
+|**2025-06-23**|**Reply to "Emergent LLM behaviors are observationally equivalent to data leakage"**|Ariel Flint Ashery et.al.|[2506.18600](http://arxiv.org/abs/2506.18600)|null|
+|**2025-06-21**|**Reflective Verbal Reward Design for Pluralistic Alignment**|Carter Blair et.al.|[2506.17834](http://arxiv.org/abs/2506.17834)|null|
+|**2025-06-19**|**Reflective VLM Planning for Dual-Arm Desktop Cleaning: Bridging Open-Vocabulary Perception and Precise Manipulation**|Yufan Liu et.al.|[2506.17328](http://arxiv.org/abs/2506.17328)|null|
+|**2025-06-20**|**A Self-Organized Criticality Model of Extreme Events and Cascading Disasters of Hub and Spoke Air Traffic Networks**|Mary Lai O. Salvaña et.al.|[2506.16727](http://arxiv.org/abs/2506.16727)|null|
+|**2025-06-19**|**Self-Critique-Guided Curiosity Refinement: Enhancing Honesty and Helpfulness in Large Language Models via In-Context Learning**|Duc Hieu Ho et.al.|[2506.16064](http://arxiv.org/abs/2506.16064)|null|
+|**2025-06-23**|**From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents**|Mohammad Amaan Sayeed et.al.|[2506.15911](http://arxiv.org/abs/2506.15911)|null|
 |**2025-06-11**|**CRITICTOOL: Evaluating Self-Critique Capabilities of Large Language Models in Tool-Calling Error Scenarios**|Shiting Huang et.al.|[2506.13977](http://arxiv.org/abs/2506.13977)|null|
 |**2025-06-16**|**VL-GenRM: Enhancing Vision-Language Verification via Vision Experts and Iterative Training**|Jipeng Zhang et.al.|[2506.13888](http://arxiv.org/abs/2506.13888)|null|
 |**2025-06-16**|**VIS-Shepherd: Constructing Critic for LLM-based Data Visualization Generation**|Bo Pan et.al.|[2506.13326](http://arxiv.org/abs/2506.13326)|**[link](https://github.com/bopan3/vis-shepherd)**|
@@ -4792,6 +4801,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-21**|**Engagement and Disclosures in LLM-Powered Cognitive Behavioral Therapy Exercises: A Factorial Design Comparing the Influence of a Robot vs. Chatbot Over Time**|Mina Kian et.al.|[2506.17831](http://arxiv.org/abs/2506.17831)|null|
 |**2025-05-21**|**Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling**|He Hu et.al.|[2505.15715](http://arxiv.org/abs/2505.15715)|null|
 |**2025-05-16**|**The Way We Prompt: Conceptual Blending, Neural Dynamics, and Prompt-Induced Transitions in LLMs**|Makoto Sato et.al.|[2505.10948](http://arxiv.org/abs/2505.10948)|null|
 |**2025-05-10**|**NeuroPal: A Clinically-Informed Multimodal LLM Assistant for Mental Health Combining Sleep Chronotherapy, Cognitive Behavioral Reframing, and Adaptive Phytochemical Intervention**|Xiaoran Han et.al.|[2505.06640](http://arxiv.org/abs/2505.06640)|null|
@@ -4815,6 +4825,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
 |**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
