@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4744,6 +4744,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**How the Solar Dynamics Observatory Revolutionized our Physical Understanding of the Sun**|Markus J. Aschwanden et.al.|[2507.02111](http://arxiv.org/abs/2507.02111)|null|
+|**2025-07-02**|**Epistemic Scarcity: The Economics of Unresolvable Unknowns**|Craig S Wright et.al.|[2507.01483](http://arxiv.org/abs/2507.01483)|null|
+|**2025-07-01**|**Towards Robustness: A Critique of Current Vector Database Assessments**|Zikai Wang et.al.|[2507.00379](http://arxiv.org/abs/2507.00379)|null|
+|**2025-06-30**|**PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red**|Zihao Liu et.al.|[2506.23689](http://arxiv.org/abs/2506.23689)|null|
+|**2025-06-28**|**Improving Rationality in the Reasoning Process of Language Models through Self-playing Game**|Pinzheng Wang et.al.|[2506.22920](http://arxiv.org/abs/2506.22920)|null|
 |**2025-06-27**|**Training Language Model to Critique for Better Refinement**|Tianshu Yu et.al.|[2506.22157](http://arxiv.org/abs/2506.22157)|null|
 |**2025-06-26**|**Using Generative AI in Software Design Education: An Experience Report**|Victoria Jackson et.al.|[2506.21703](http://arxiv.org/abs/2506.21703)|null|
 |**2025-06-26**|**Double-Checker: Enhancing Reasoning of Slow-Thinking LLMs via Self-Critical Fine-Tuning**|Xin Xu et.al.|[2506.21285](http://arxiv.org/abs/2506.21285)|null|
@@ -4805,6 +4810,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Data Augmentation for Cognitive Behavioral Therapy: Leveraging ERNIE Language Models using Artificial Intelligence**|Bosubabu Sambana et.al.|[2506.23503](http://arxiv.org/abs/2506.23503)|null|
 |**2025-06-21**|**Engagement and Disclosures in LLM-Powered Cognitive Behavioral Therapy Exercises: A Factorial Design Comparing the Influence of a Robot vs. Chatbot Over Time**|Mina Kian et.al.|[2506.17831](http://arxiv.org/abs/2506.17831)|null|
 |**2025-05-21**|**Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling**|He Hu et.al.|[2505.15715](http://arxiv.org/abs/2505.15715)|null|
 |**2025-05-16**|**The Way We Prompt: Conceptual Blending, Neural Dynamics, and Prompt-Induced Transitions in LLMs**|Makoto Sato et.al.|[2505.10948](http://arxiv.org/abs/2505.10948)|null|
@@ -4829,6 +4835,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases**|Shuai Tan et.al.|[2507.01390](http://arxiv.org/abs/2507.01390)|null|
+|**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
 |**2025-06-27**|**Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field**|Hong Nie et.al.|[2506.22044](http://arxiv.org/abs/2506.22044)|null|
 |**2025-06-27**|**RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**|Haofeng Wang et.al.|[2506.21865](http://arxiv.org/abs/2506.21865)|null|
 |**2025-06-26**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
@@ -4836,7 +4844,7 @@ layout: default
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
 |**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
-|**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|**[link](https://github.com/microsoft/vsr-challenge)**|
+|**2025-07-01**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|**[link](https://github.com/microsoft/vsr-challenge)**|
 |**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
 |**2025-06-02**|**Cocktail-Party Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.02178](http://arxiv.org/abs/2506.02178)|null|
 |**2025-06-02**|**Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**|Yuan Gan et.al.|[2506.01591](http://arxiv.org/abs/2506.01591)|**[link](https://github.com/yuangan/silencer)**|
