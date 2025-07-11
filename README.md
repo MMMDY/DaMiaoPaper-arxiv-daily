@@ -1,4 +1,4 @@
-## Updated on 2025.07.06
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -957,7 +957,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## SFM
 
@@ -1365,7 +1365,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2512,7 +2512,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2825,7 +2825,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3156,7 +3156,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## NeRF
 
@@ -4761,17 +4761,20 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Critique/Critic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**The Flaws of Others: An LLM-driven Framework for Scientific Knowledge Production**|Juan B. Gutiérrez et.al.|[2507.06565](http://arxiv.org/abs/2507.06565)|null|
+|**2025-07-07**|**Information Needs and Practices Supported by ChatGPT**|Tim Gorichanaz et.al.|[2507.05537](http://arxiv.org/abs/2507.05537)|null|
+|**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169](http://arxiv.org/abs/2507.05169)|null|
 |**2025-07-02**|**How the Solar Dynamics Observatory Revolutionized our Physical Understanding of the Sun**|Markus J. Aschwanden et.al.|[2507.02111](http://arxiv.org/abs/2507.02111)|null|
 |**2025-07-02**|**Epistemic Scarcity: The Economics of Unresolvable Unknowns**|Craig S Wright et.al.|[2507.01483](http://arxiv.org/abs/2507.01483)|null|
 |**2025-07-01**|**Towards Robustness: A Critique of Current Vector Database Assessments**|Zikai Wang et.al.|[2507.00379](http://arxiv.org/abs/2507.00379)|null|
 |**2025-06-30**|**PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red**|Zihao Liu et.al.|[2506.23689](http://arxiv.org/abs/2506.23689)|null|
-|**2025-06-28**|**Improving Rationality in the Reasoning Process of Language Models through Self-playing Game**|Pinzheng Wang et.al.|[2506.22920](http://arxiv.org/abs/2506.22920)|null|
+|**2025-07-06**|**Improving Rationality in the Reasoning Process of Language Models through Self-playing Game**|Pinzheng Wang et.al.|[2506.22920](http://arxiv.org/abs/2506.22920)|null|
 |**2025-06-27**|**Training Language Model to Critique for Better Refinement**|Tianshu Yu et.al.|[2506.22157](http://arxiv.org/abs/2506.22157)|null|
 |**2025-06-26**|**Using Generative AI in Software Design Education: An Experience Report**|Victoria Jackson et.al.|[2506.21703](http://arxiv.org/abs/2506.21703)|null|
 |**2025-06-26**|**Double-Checker: Enhancing Reasoning of Slow-Thinking LLMs via Self-Critical Fine-Tuning**|Xin Xu et.al.|[2506.21285](http://arxiv.org/abs/2506.21285)|null|
@@ -4829,7 +4832,7 @@
 |**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
 |**2025-05-22**|**Critique-Guided Distillation: Improving Supervised Fine-tuning via Better Distillation**|Berkcan Kapusuzoglu et.al.|[2505.11628](http://arxiv.org/abs/2505.11628)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## CBT
 
@@ -4856,17 +4859,21 @@
 |**2024-11-29**|**Fine Tuning Large Language Models to Deliver CBT for Depression**|Talha Tahir et.al.|[2412.00251](http://arxiv.org/abs/2412.00251)|**[link](https://github.com/ttahir-git/FineTuning_LLMs_for_CBT_for_Depression)**|
 |**2024-12-16**|**Habit Coach: Customising RAG-based chatbots to support behavior change**|Arian Fooroogh Mand Arabi et.al.|[2411.19229](http://arxiv.org/abs/2411.19229)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Talking Head
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
+|**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
+|**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
+|**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900](http://arxiv.org/abs/2507.02900)|null|
 |**2025-07-02**|**FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases**|Shuai Tan et.al.|[2507.01390](http://arxiv.org/abs/2507.01390)|null|
 |**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
 |**2025-06-27**|**Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field**|Hong Nie et.al.|[2506.22044](http://arxiv.org/abs/2506.22044)|null|
 |**2025-06-27**|**RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**|Haofeng Wang et.al.|[2506.21865](http://arxiv.org/abs/2506.21865)|null|
-|**2025-06-26**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
+|**2025-07-10**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
 |**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
@@ -4892,7 +4899,7 @@
 |**2025-04-08**|**VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing**|Juan Luis Gonzalez Bello et.al.|[2504.07146](http://arxiv.org/abs/2504.07146)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 
-<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

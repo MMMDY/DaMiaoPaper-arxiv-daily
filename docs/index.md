@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.06
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4744,11 +4744,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**The Flaws of Others: An LLM-driven Framework for Scientific Knowledge Production**|Juan B. Gutiérrez et.al.|[2507.06565](http://arxiv.org/abs/2507.06565)|null|
+|**2025-07-07**|**Information Needs and Practices Supported by ChatGPT**|Tim Gorichanaz et.al.|[2507.05537](http://arxiv.org/abs/2507.05537)|null|
+|**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169](http://arxiv.org/abs/2507.05169)|null|
 |**2025-07-02**|**How the Solar Dynamics Observatory Revolutionized our Physical Understanding of the Sun**|Markus J. Aschwanden et.al.|[2507.02111](http://arxiv.org/abs/2507.02111)|null|
 |**2025-07-02**|**Epistemic Scarcity: The Economics of Unresolvable Unknowns**|Craig S Wright et.al.|[2507.01483](http://arxiv.org/abs/2507.01483)|null|
 |**2025-07-01**|**Towards Robustness: A Critique of Current Vector Database Assessments**|Zikai Wang et.al.|[2507.00379](http://arxiv.org/abs/2507.00379)|null|
 |**2025-06-30**|**PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red**|Zihao Liu et.al.|[2506.23689](http://arxiv.org/abs/2506.23689)|null|
-|**2025-06-28**|**Improving Rationality in the Reasoning Process of Language Models through Self-playing Game**|Pinzheng Wang et.al.|[2506.22920](http://arxiv.org/abs/2506.22920)|null|
+|**2025-07-06**|**Improving Rationality in the Reasoning Process of Language Models through Self-playing Game**|Pinzheng Wang et.al.|[2506.22920](http://arxiv.org/abs/2506.22920)|null|
 |**2025-06-27**|**Training Language Model to Critique for Better Refinement**|Tianshu Yu et.al.|[2506.22157](http://arxiv.org/abs/2506.22157)|null|
 |**2025-06-26**|**Using Generative AI in Software Design Education: An Experience Report**|Victoria Jackson et.al.|[2506.21703](http://arxiv.org/abs/2506.21703)|null|
 |**2025-06-26**|**Double-Checker: Enhancing Reasoning of Slow-Thinking LLMs via Self-Critical Fine-Tuning**|Xin Xu et.al.|[2506.21285](http://arxiv.org/abs/2506.21285)|null|
@@ -4835,11 +4838,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
+|**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
+|**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
+|**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900](http://arxiv.org/abs/2507.02900)|null|
 |**2025-07-02**|**FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases**|Shuai Tan et.al.|[2507.01390](http://arxiv.org/abs/2507.01390)|null|
 |**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
 |**2025-06-27**|**Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field**|Hong Nie et.al.|[2506.22044](http://arxiv.org/abs/2506.22044)|null|
 |**2025-06-27**|**RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**|Haofeng Wang et.al.|[2506.21865](http://arxiv.org/abs/2506.21865)|null|
-|**2025-06-26**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
+|**2025-07-10**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513](http://arxiv.org/abs/2506.21513)|null|
 |**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
