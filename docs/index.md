@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.11
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4744,7 +4744,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-09**|**The Flaws of Others: An LLM-driven Framework for Scientific Knowledge Production**|Juan B. Gutiérrez et.al.|[2507.06565](http://arxiv.org/abs/2507.06565)|null|
+|**2025-07-13**|**The Spectacle of Fidelity: Blind Resistance and the Wizardry of Prototyping**|Hrittika Bhowmick et.al.|[2507.09549](http://arxiv.org/abs/2507.09549)|null|
+|**2025-07-12**|**EduFlow: Advancing MLLMs' Problem-Solving Proficiency through Multi-Stage, Multi-Perspective Critique**|Chenglin Zhu et.al.|[2507.09374](http://arxiv.org/abs/2507.09374)|null|
+|**2025-07-11**|**OpenCodeReasoning-II: A Simple Test Time Scaling Approach via Self-Critique**|Wasi Uddin Ahmad et.al.|[2507.09075](http://arxiv.org/abs/2507.09075)|null|
+|**2025-07-11**|**A Critique of Deng's "P=NP"**|Isabel Humphreys et.al.|[2507.09018](http://arxiv.org/abs/2507.09018)|null|
+|**2025-07-11**|**Multi-Agent LLMs as Ethics Advocates in AI-Based Systems**|Asma Yamani et.al.|[2507.08392](http://arxiv.org/abs/2507.08392)|null|
+|**2025-07-11**|**Exploring Design of Multi-Agent LLM Dialogues for Research Ideation**|Keisuke Ueda et.al.|[2507.08350](http://arxiv.org/abs/2507.08350)|null|
+|**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Chan Young Park et.al.|[2507.08224](http://arxiv.org/abs/2507.08224)|null|
+|**2025-07-10**|**SAND: Boosting LLM Agents with Self-Taught Action Deliberation**|Yu Xia et.al.|[2507.07441](http://arxiv.org/abs/2507.07441)|null|
+|**2025-07-11**|**Open Source Planning & Control System with Language Agents for Autonomous Scientific Discovery**|Licong Xu et.al.|[2507.07257](http://arxiv.org/abs/2507.07257)|null|
+|**2025-07-15**|**A Mathematical Theory of Discursive Networks**|Juan B. Gutiérrez et.al.|[2507.06565](http://arxiv.org/abs/2507.06565)|null|
 |**2025-07-07**|**Information Needs and Practices Supported by ChatGPT**|Tim Gorichanaz et.al.|[2507.05537](http://arxiv.org/abs/2507.05537)|null|
 |**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169](http://arxiv.org/abs/2507.05169)|null|
 |**2025-07-02**|**How the Solar Dynamics Observatory Revolutionized our Physical Understanding of the Sun**|Markus J. Aschwanden et.al.|[2507.02111](http://arxiv.org/abs/2507.02111)|null|
@@ -4838,7 +4847,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-08**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
+|**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
+|**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
+|**2025-07-13**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
 |**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
 |**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
 |**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900](http://arxiv.org/abs/2507.02900)|null|
