@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4744,11 +4744,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Deconstructing Implicit Beliefs in Visual Data Journalism: Unstable Meanings Behind Data as Truth & Design for Insight**|Ke Er Amy Zhang et.al.|[2507.12377](http://arxiv.org/abs/2507.12377)|null|
 |**2025-07-13**|**The Spectacle of Fidelity: Blind Resistance and the Wizardry of Prototyping**|Hrittika Bhowmick et.al.|[2507.09549](http://arxiv.org/abs/2507.09549)|null|
 |**2025-07-12**|**EduFlow: Advancing MLLMs' Problem-Solving Proficiency through Multi-Stage, Multi-Perspective Critique**|Chenglin Zhu et.al.|[2507.09374](http://arxiv.org/abs/2507.09374)|null|
 |**2025-07-11**|**OpenCodeReasoning-II: A Simple Test Time Scaling Approach via Self-Critique**|Wasi Uddin Ahmad et.al.|[2507.09075](http://arxiv.org/abs/2507.09075)|null|
 |**2025-07-11**|**A Critique of Deng's "P=NP"**|Isabel Humphreys et.al.|[2507.09018](http://arxiv.org/abs/2507.09018)|null|
-|**2025-07-11**|**Multi-Agent LLMs as Ethics Advocates in AI-Based Systems**|Asma Yamani et.al.|[2507.08392](http://arxiv.org/abs/2507.08392)|null|
+|**2025-07-18**|**Multi-Agent LLMs as Ethics Advocates for AI-Based Systems**|Asma Yamani et.al.|[2507.08392](http://arxiv.org/abs/2507.08392)|null|
 |**2025-07-11**|**Exploring Design of Multi-Agent LLM Dialogues for Research Ideation**|Keisuke Ueda et.al.|[2507.08350](http://arxiv.org/abs/2507.08350)|null|
 |**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Chan Young Park et.al.|[2507.08224](http://arxiv.org/abs/2507.08224)|null|
 |**2025-07-10**|**SAND: Boosting LLM Agents with Self-Taught Action Deliberation**|Yu Xia et.al.|[2507.07441](http://arxiv.org/abs/2507.07441)|null|
@@ -4847,6 +4848,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion**|Hoang-Son Vo et.al.|[2507.12804](http://arxiv.org/abs/2507.12804)|null|
+|**2025-07-17**|**Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation**|Hanlei Shi et.al.|[2507.12761](http://arxiv.org/abs/2507.12761)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
 |**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-13**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|

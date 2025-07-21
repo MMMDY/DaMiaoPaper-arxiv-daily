@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -957,7 +957,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## SFM
 
@@ -1365,7 +1365,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2512,7 +2512,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2825,7 +2825,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3156,7 +3156,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## NeRF
 
@@ -4761,17 +4761,18 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Critique/Critic
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Deconstructing Implicit Beliefs in Visual Data Journalism: Unstable Meanings Behind Data as Truth & Design for Insight**|Ke Er Amy Zhang et.al.|[2507.12377](http://arxiv.org/abs/2507.12377)|null|
 |**2025-07-13**|**The Spectacle of Fidelity: Blind Resistance and the Wizardry of Prototyping**|Hrittika Bhowmick et.al.|[2507.09549](http://arxiv.org/abs/2507.09549)|null|
 |**2025-07-12**|**EduFlow: Advancing MLLMs' Problem-Solving Proficiency through Multi-Stage, Multi-Perspective Critique**|Chenglin Zhu et.al.|[2507.09374](http://arxiv.org/abs/2507.09374)|null|
 |**2025-07-11**|**OpenCodeReasoning-II: A Simple Test Time Scaling Approach via Self-Critique**|Wasi Uddin Ahmad et.al.|[2507.09075](http://arxiv.org/abs/2507.09075)|null|
 |**2025-07-11**|**A Critique of Deng's "P=NP"**|Isabel Humphreys et.al.|[2507.09018](http://arxiv.org/abs/2507.09018)|null|
-|**2025-07-11**|**Multi-Agent LLMs as Ethics Advocates in AI-Based Systems**|Asma Yamani et.al.|[2507.08392](http://arxiv.org/abs/2507.08392)|null|
+|**2025-07-18**|**Multi-Agent LLMs as Ethics Advocates for AI-Based Systems**|Asma Yamani et.al.|[2507.08392](http://arxiv.org/abs/2507.08392)|null|
 |**2025-07-11**|**Exploring Design of Multi-Agent LLM Dialogues for Research Ideation**|Keisuke Ueda et.al.|[2507.08350](http://arxiv.org/abs/2507.08350)|null|
 |**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Chan Young Park et.al.|[2507.08224](http://arxiv.org/abs/2507.08224)|null|
 |**2025-07-10**|**SAND: Boosting LLM Agents with Self-Taught Action Deliberation**|Yu Xia et.al.|[2507.07441](http://arxiv.org/abs/2507.07441)|null|
@@ -4841,7 +4842,7 @@
 |**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
 |**2025-05-22**|**Critique-Guided Distillation: Improving Supervised Fine-tuning via Better Distillation**|Berkcan Kapusuzoglu et.al.|[2505.11628](http://arxiv.org/abs/2505.11628)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## CBT
 
@@ -4868,12 +4869,14 @@
 |**2024-11-29**|**Fine Tuning Large Language Models to Deliver CBT for Depression**|Talha Tahir et.al.|[2412.00251](http://arxiv.org/abs/2412.00251)|**[link](https://github.com/ttahir-git/FineTuning_LLMs_for_CBT_for_Depression)**|
 |**2024-12-16**|**Habit Coach: Customising RAG-based chatbots to support behavior change**|Arian Fooroogh Mand Arabi et.al.|[2411.19229](http://arxiv.org/abs/2411.19229)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Talking Head
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion**|Hoang-Son Vo et.al.|[2507.12804](http://arxiv.org/abs/2507.12804)|null|
+|**2025-07-17**|**Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation**|Hanlei Shi et.al.|[2507.12761](http://arxiv.org/abs/2507.12761)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
 |**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-13**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071](http://arxiv.org/abs/2507.06071)|null|
@@ -4910,7 +4913,7 @@
 |**2025-04-08**|**VideoSPatS: Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing**|Juan Luis Gonzalez Bello et.al.|[2504.07146](http://arxiv.org/abs/2504.07146)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
